@@ -4,8 +4,12 @@
 ```
 (function ($) {
     var options = {
-        'baseUrl': '/backoffice/residencial/fila',
+        'filterButton': 'sf-filter-button',
+        'filterOptions': 'sf-option',
+        'searchInput': 'sf-input',
+        'searchButton': 'sf-search-button',
+        'baseUrl': '/',
     };
-    $('#filter_bko_comercial').simpleFilter(options);
+    $('.filter-main-container').simpleFilter(options);
 })(jQuery);
 ```
