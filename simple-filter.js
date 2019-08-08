@@ -1,6 +1,6 @@
 /**
  * simple-filter.js
- * @version: v1.0.0
+ * @version: v0.0.1
  * @author: Guilherme Sousa
  *
  * Created by Guilherme Sousa on 2019-08-08. Please report any bug at email gsousadev@gmail.com
